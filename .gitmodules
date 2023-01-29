@@ -1,0 +1,3 @@
+[submodule "blockchain-explorer"]
+	path = blockchain-explorer
+	url = git@github.com:srondss/blockchain-explorer.git
