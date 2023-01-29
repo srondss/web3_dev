@@ -1,0 +1,3 @@
+[submodule "week3_project"]
+	path = week3_project
+	url = git@github.com:srondss/web3_dev.git
