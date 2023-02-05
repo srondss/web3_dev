@@ -1,3 +1,6 @@
 [submodule "blockchain-explorer"]
 	path = blockchain-explorer
 	url = git@github.com:srondss/blockchain-explorer.git
+[submodule "decentralized-escrow-app"]
+	path = decentralized-escrow-app
+	url = git@github.com:srondss/decentralized-escrow-app.git
